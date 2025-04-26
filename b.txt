@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello , I am Car b
+
+Hello i am bike b
+>>>>>>> bike
